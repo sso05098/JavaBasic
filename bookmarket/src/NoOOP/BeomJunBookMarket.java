@@ -76,7 +76,7 @@ public class HyejeongBookMarket {
 	}
 	
 	static void menuExit() {
-		System.out.println(">> Hyejeong Book Market을 종료합니다.");
+		System.out.println(">> BeomJun Book Market을 종료합니다.");
 	}
 	
 	static void menuWrongNumber() {
